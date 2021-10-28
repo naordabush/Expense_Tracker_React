@@ -6,7 +6,7 @@ A simple expense traker app built with react.
 
 ```
 npm install
-npm run dev
+npm run start
 
 Go to localhost:3000
 
